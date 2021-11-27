@@ -6,6 +6,10 @@ header {
 
 main {
     background-color: lightgray;
+
+}
+
+body {
     background-image: 
         url("record.png");
     background-repeat: repeat;
